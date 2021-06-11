@@ -13,6 +13,7 @@ import paquete5.Persona;
 /**
  *
  * @author Renny poma
+           Santiago Sarango
  */
 public class Ejecutor {
     
